@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "word": "apple",
+    "meaning": "elma",
+    "image_url": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+  },
+  {
+    "id": 2,
+    "word": "mountain",
+    "meaning": "dağ",
+    "image_url": "https://images.unsplash.com/photo-1515310787031-25ac2d68610d?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "word": "river",
+    "meaning": "nehir",
+    "image_url": "https://images.unsplash.com/photo-1482189349482-3defd547e0e9?q=80&w=2848&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "word": "sunshine",
+    "meaning": "güneş ışığı",
+    "image_url": "https://plus.unsplash.com/premium_photo-1669731124026-84b3f596d72a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHN1bnNoaW5lfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 5,
+    "word": "forest",
+    "meaning": "orman",
+    "image_url": "https://images.unsplash.com/photo-1507041957456-9c397ce39c97?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Zm9yZXN0fGVufDB8fDB8fHww"
+  },
+  {
+    "id": 6,
+    "word": "book",
+    "meaning": "kitap",
+    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+  },
+  {
+    "id": 7,
+    "word": "sky",
+    "meaning": "gökyüzü",
+    "image_url": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNreXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 8,
+    "word": "ocean",
+    "meaning": "okyanus",
+    "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  {
+    "id": 9,
+    "word": "flower",
+    "meaning": "çiçek",
+    "image_url": "https://images.unsplash.com/photo-1447875569765-2b3db822bec9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Zmxvd2VyfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 10,
+    "word": "cat",
+    "meaning": "kedi",
+    "image_url": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131"
+  },
+  {
+    "id": 11,
+    "word": "dog",
+    "meaning": "köpek",
+    "image_url": "https://images.unsplash.com/photo-1517849845537-4d257902454a"
+  },
+  {
+    "id": 12,
+    "word": "tree",
+    "meaning": "ağaç",
+    "image_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHJlZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 13,
+    "word": "cloud",
+    "meaning": "bulut",
+    "image_url": "https://images.unsplash.com/photo-1533812451773-f2b04c2bdeb2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2xvdWR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 14,
+    "word": "car",
+    "meaning": "araba",
+    "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+  },
+  {
+    "id": 15,
+    "word": "bird",
+    "meaning": "kuş",
+    "image_url": "https://images.unsplash.com/photo-1486365227551-f3f90034a57c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyZHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 16,
+    "word": "house",
+    "meaning": "ev",
+    "image_url": "https://plus.unsplash.com/premium_photo-1689609950112-d66095626efb?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG91c2V8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 17,
+    "word": "computer",
+    "meaning": "bilgisayar",
+    "image_url": "https://plus.unsplash.com/premium_photo-1681666713689-cd1416a652f8?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNvbXB1dGVyfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 18,
+    "word": "coffee",
+    "meaning": "kahve",
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+  },
+  {
+    "id": 19,
+    "word": "bicycle",
+    "meaning": "bisiklet",
+    "image_url": "https://images.unsplash.com/8/green-bike.jpg?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmljeWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 20,
+    "word": "music",
+    "meaning": "müzik",
+    "image_url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 21,
+    "word": "phone",
+    "meaning": "telefon",
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 22,
+    "word": "chair",
+    "meaning": "sandalye",
+    "image_url": "https://images.unsplash.com/photo-1506326426992-32b61983f2fd?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNoYWlyfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 23,
+    "word": "water",
+    "meaning": "su",
+    "image_url": "https://images.unsplash.com/photo-1519455953755-af066f52f1a6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0ZXJ8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 24,
+    "word": "window",
+    "meaning": "pencere",
+    "image_url": "https://images.unsplash.com/photo-1527352774566-e4916e36c645?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHdpbmRvd3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 25,
+    "word": "sun",
+    "meaning": "güneş",
+    "image_url": "https://plus.unsplash.com/premium_photo-1681488104322-8bd081b57509?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHN1bnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 26,
+    "word": "flowerpot",
+    "meaning": "saksı",
+    "image_url": "https://plus.unsplash.com/premium_photo-1664372599386-9152bef7ec18?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Zmxvd2VycG90fGVufDB8fDB8fHww"
+  },
+  {
+    "id": 27,
+    "word": "guitar",
+    "meaning": "gitar",
+    "image_url": "https://plus.unsplash.com/premium_photo-1681396937086-8a28edd8d257?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3VpdGFyfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 28,
+    "word": "keyboard",
+    "meaning": "klavye",
+    "image_url": "https://plus.unsplash.com/premium_photo-1664194583917-b0ba07c4ce2a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2V5Ym9hcmR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 29,
+    "word": "lamp",
+    "meaning": "lamba",
+    "image_url": "https://plus.unsplash.com/premium_photo-1668005190411-1042cd38522e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGFtcHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 30,
+    "word": "pencil",
+    "meaning": "kalem",
+    "image_url": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGVuY2lsfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 31,
+    "word": "mirror",
+    "meaning": "ayna",
+    "image_url": "https://images.unsplash.com/photo-1606241018160-4985a8ab5dec?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWlycm9yfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 32,
+    "word": "shoe",
+    "meaning": "ayakkabı",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 33,
+    "word": "clock",
+    "meaning": "saat",
+    "image_url": "https://plus.unsplash.com/premium_photo-1664298300286-a26e2746435d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2xvY2t8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 34,
+    "word": "train",
+    "meaning": "tren",
+    "image_url": "https://images.unsplash.com/photo-1535535112387-56ffe8db21ff?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHRyYWlufGVufDB8fDB8fHww"
+  },
+  {
+    "id": 35,
+    "word": "rain",
+    "meaning": "yağmur",
+    "image_url": "https://images.unsplash.com/photo-1511634829096-045a111727eb?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmFpbnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 36,
+    "word": "ball",
+    "meaning": "top",
+    "image_url": "https://plus.unsplash.com/premium_photo-1714573001973-73bda33e6301?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmFsbHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 37,
+    "word": "table",
+    "meaning": "masa",
+    "image_url": "https://plus.unsplash.com/premium_photo-1667355489924-0ce0b2bd9961?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHRhYmxlfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 38,
+    "word": "door",
+    "meaning": "kapı",
+    "image_url": "https://images.unsplash.com/photo-1517111109658-0780925e6178?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZG9vcnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 39,
+    "word": "boat",
+    "meaning": "tekne",
+    "image_url": "https://images.unsplash.com/photo-1444487233259-dae9d907a740?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ym9hdHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 40,
+    "word": "sand",
+    "meaning": "kum",
+    "image_url": "https://images.unsplash.com/photo-1504548840739-580b10ae7715?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2FuZHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 41,
+    "word": "garden",
+    "meaning": "bahçe",
+    "image_url": "https://images.unsplash.com/photo-1562886695-0f3c22a48bbb?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGdhcmRlbnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 42,
+    "word": "bread",
+    "meaning": "ekmek",
+    "image_url": "https://plus.unsplash.com/premium_photo-1675788939191-713c2abf3da6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnJlYWR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 43,
+    "word": "cup",
+    "meaning": "fincan",
+    "image_url": "https://images.unsplash.com/photo-1525213638820-944c2081f306?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGN1cHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 44,
+    "word": "road",
+    "meaning": "yol",
+    "image_url": "https://plus.unsplash.com/premium_photo-1688416553942-b97d4e95a239?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cm9hZHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 45,
+    "word": "ice",
+    "meaning": "buz",
+    "image_url": "https://media.istockphoto.com/id/177131518/photo/ice-cubes.jpg?s=612x612&w=0&k=20&c=pUWWdEDWq_nFigrfEfMM0e7ikjaYSOi8EGedHJZqZCU="
+  },
+  {
+    "id": 46,
+    "word": "fish",
+    "meaning": "balık",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661936371108-6765cb65b4d6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmlzaHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 47,
+    "word": "camera",
+    "meaning": "kamera",
+    "image_url": "https://images.unsplash.com/photo-1460134846237-51c777df6111?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FtZXJhfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 48,
+    "word": "hat",
+    "meaning": "şapka",
+    "image_url": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aGF0fGVufDB8fDB8fHww"
+  },
+  {
+    "id": 49,
+    "word": "glasses",
+    "meaning": "gözlük",
+    "image_url": "https://images.unsplash.com/photo-1501619838605-f3e4c602db04?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z2xhc3Nlc3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 50,
+    "word": "milk",
+    "meaning": "süt",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-UTdK5J65RE9SXZ8NUmWjXrZSX_Iu-iiMQ&s"
+  },
+  {
+    "id": 51,
+    "word": "bridge",
+    "meaning": "köprü",
+    "image_url": "https://images.unsplash.com/photo-1507261754448-5de3bfcfdc10?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YnJpZGdlfGVufDB8fDB8fHww"
+  }
+]
